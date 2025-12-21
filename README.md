@@ -5,6 +5,8 @@
 ![React](https://img.shields.io/badge/React-18-cyan)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 
+_This project is isnpired from [Coffinxp](https://github.com/coffinxp)'s lostsec.xyz ❤️_
+
 **Bug HUnting Toolkit** is a specialized, all-in-one dashboard designed for Bug Bounty Hunters, Penetration Testers, and Red Teamers. It streamlines the reconnaissance workflow by generating complex tool commands, organizing resources, and visualizing intelligence data.
 
 This application acts as a "Command Center" to help you structure your methodology, generate syntax-perfect CLI commands for popular tools (like Subfinder, Nuclei, HTTPX), and keep track of your learning resources.
