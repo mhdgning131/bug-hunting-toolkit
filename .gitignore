@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/*
+.idea/
+*.suo
+*.ntvs*
+*.sln
+logs/
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
