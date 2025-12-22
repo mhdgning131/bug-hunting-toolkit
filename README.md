@@ -2,8 +2,6 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Active-emerald)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![React](https://img.shields.io/badge/React-18-cyan)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 
 _This project is isnpired from [Coffinxp](https://github.com/coffinxp)'s lostsec.xyz ❤️_
 
@@ -35,20 +33,6 @@ Stay sharp with a hand-picked list of high-quality bug bounty writeups and artic
 
 ### 5. Profile (Beta)
 *Currently under construction.* A future module to visualize the attack surface graph of your target.
-
----
-
-## Tech Stack
-
-Built with modern web technologies for performance and a premium developer experience.
-
-- **Framework**: [React 19](https://react.dev/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Build Tool**: [Vite](https://vitejs.dev/)
-- **Styling**: [TailwindCSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **State Management**: [Zustand](https://github.com/pmndrs/zustand)
-- **Icons**: [Lucide React](https://lucide.dev/)
 
 ---
 
@@ -86,16 +70,12 @@ Follow these steps to set up the project locally.
 
 1.  **Define Scope**: On the **Generator** tab, enter your target domain (e.g., `target.com`). The interface validates the domain format.
 2.  **Generate Commands**: Scroll through the categories (Recon, XSS, SQLi, etc.).
-    *   Click on the **Terminal** window of any card to copy the command.
+    *   Click on the **copy** button of any card to copy the command.
     *   The commands automatically update to include your specific target domain.
 3.  **Explore Resources**: Use the **Tools**, **Extensions**, and **Writeups** tabs to find new utilities or read about vulnerability methodologies.
-4.  **Persist Work**: Your target domain and active tab are saved automatically, so you pick up right where you left off upon refreshing
+4.  **Persist Work**: Your target domain and active tab are saved automatically, so you pick up right where you left
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 <div align="center">
   <p><i>Happy Hunting!</i></p>
